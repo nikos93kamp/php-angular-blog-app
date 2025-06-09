@@ -1,0 +1,69 @@
+# Laravel ignores
+/blog-api/*.log
+/blog-api/.DS_Store
+/blog-api/.env
+/blog-api/.env.backup
+/blog-api/.env.production
+/blog-api/.phpactor.json
+/blog-api/.phpunit.result.cache
+/blog-api/.fleet
+/blog-api/.idea
+/blog-api/.nova
+/blog-api/.phpunit.cache
+/blog-api/.vscode
+/blog-api/.zed
+/blog-api/auth.json
+/blog-api/node_modules
+/blog-api/public/build
+/blog-api/public/hot
+/blog-api/public/storage
+/blog-api/storage/*.key
+/blog-api/storage/pail
+/blog-api/vendor
+/blog-api/Homestead.json
+/blog-api/Homestead.yaml
+/blog-api/npm-debug.log
+/blog-api/Thumbs.db
+/blog-api/yarn-error.log
+
+#Angular ignores
+# Compiled output
+/blog-frontend/dist
+/blog-frontend/tmp
+/blog-frontend/out-tsc
+/blog-frontend/bazel-out
+
+# Node
+/blog-frontend/node_modules
+/blog-frontend/npm-debug.log
+/blog-frontend/yarn-error.log
+
+# IDEs and editors
+/blog-frontend/.idea/
+/blog-frontend/.project
+/blog-frontend/.classpath
+/blog-frontend/.c9/
+/blog-frontend/*.launch
+/blog-frontend/.settings/
+/blog-frontend/*.sublime-workspace
+
+# Visual Studio Code
+/blog-frontend/.vscode/*
+/blog-frontend/!.vscode/settings.json
+/blog-frontend/!.vscode/tasks.json
+/blog-frontend/!.vscode/launch.json
+/blog-frontend/!.vscode/extensions.json
+/blog-frontend/.history/*
+
+# Miscellaneous
+/blog-frontend/.angular/cache
+/blog-frontend/.sass-cache/
+/blog-frontend/connect.lock
+/blog-frontend/coverage
+/blog-frontend/libpeerconnection.log
+/blog-frontend/testem.log
+/blog-frontend/typings
+
+# System files
+/blog-frontend/.DS_Store
+/blog-frontend/Thumbs.db
